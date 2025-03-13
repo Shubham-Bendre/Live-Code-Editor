@@ -24,14 +24,16 @@ Welcome to **Live Code Editor** – a real-time collaborative coding playground 
 
 ---
 
-## 📋 Modules Overview
+## 📸 Screenshots
 
-1. **Live Editor** – Users can write and edit code in real-time with syntax highlighting.
-2. **Collaborative Coding** – Multiple users can join the same session and contribute simultaneously.
-3. **Code Execution** – Send code to the backend for execution and receive output instantly.
-4. **Theme Toggle** – Switch between dark mode and light mode for an optimized experience.
-5. **Room-Based Sessions** – Users can create or join unique rooms to collaborate privately.
-6. **Cursor & Typing Indicators** – Visual cues to enhance real-time collaboration.
+### 1️⃣ Landing Page
+![Landing Page](./screenshots/home.png)
+
+### 2️⃣ Dark Mode
+![Dark Mode](./screenshots/dark.png)
+
+### 3️⃣ Light Mode
+![Light Mode](./screenshots/light.png)
 
 ---
 
@@ -41,3 +43,30 @@ Welcome to **Live Code Editor** – a real-time collaborative coding playground 
    ```bash
    git clone https://github.com/your-username/live-code-editor.git
    cd live-code-editor
+   ```
+
+2. **Install dependencies:**  
+   ```bash
+   npm install
+   ```
+
+3. **Start the server:**  
+   ```bash
+   npm start
+   ```
+
+4. **Open in Browser:**  
+   ```
+   http://localhost:5000
+   ```
+
+---
+
+## ✨ Future Enhancements
+
+- **User Authentication:** 🔑 Allow users to create accounts and save code snippets.
+- **Code History & Versioning:** 📜 Track changes and restore previous versions.
+- **Integrated AI Code Assistance:** 🤖 Suggest code improvements in real-time.
+---
+💡 **Want to contribute?** Feel free to fork this repo, improve the models, or add new features! 🚀
+
